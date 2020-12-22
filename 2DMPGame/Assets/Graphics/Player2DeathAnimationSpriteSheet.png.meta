@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: f8ecce7fb2270f941837f7262fb457fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6608281733247771767
+    second: Player2DeathAnimationSpriteSheet_0
+  - first:
+      213: -609341002955411069
+    second: Player2DeathAnimationSpriteSheet_1
+  - first:
+      213: -7977749177079223067
+    second: Player2DeathAnimationSpriteSheet_2
+  - first:
+      213: 2333189647969214294
+    second: Player2DeathAnimationSpriteSheet_4
+  - first:
+      213: 3706038539360078889
+    second: Player2DeathAnimationSpriteSheet_6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player2DeathAnimationSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 361
+        width: 259
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5116576, y: 0.36045146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610117f789304bd4d93ff42ea511ae60
+      internalID: 6608281733247771767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player2DeathAnimationSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 329
+        width: 245
+        height: 254
+      alignment: 9
+      pivot: {x: 0.46302864, y: 0.40490326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f442d62fd456bc48971ddbaeab4398e
+      internalID: -609341002955411069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player2DeathAnimationSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 299
+        width: 246
+        height: 292
+      alignment: 9
+      pivot: {x: 0.4386314, y: 0.44312924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2010ea3d48f784f41a15d91675ad5a40
+      internalID: -7977749177079223067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player2DeathAnimationSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 237
+        width: 294
+        height: 322
+      alignment: 9
+      pivot: {x: 0.62323743, y: 0.5937678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c83ebb7d9de69b4c84eab5b88ab3d5d
+      internalID: 2333189647969214294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player2DeathAnimationSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 173
+        width: 297
+        height: 327
+      alignment: 9
+      pivot: {x: 0.6016603, y: 0.7585355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635b0aa6306cbb541a83d2dbe170271d
+      internalID: 3706038539360078889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 10ba02bd0be55ab4eb31244cbab0650c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
