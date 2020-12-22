@@ -1,34 +1,29 @@
-# Projektarbetet
-### Skapa ett 2D online spel för två spelare
+# 2D Multiplayer game
+### A fighting game for two peaple
 
-Vårat projekt går ut på att skapa ett spel som går att spela två spelare över internet. 
-
-Servern skrivs i språket Go och spel-klienten i C# med Unity som hjälpmedel för det grafiska.
+This project is a two player game that can be played online. 
+The server is written in Go and the game-client is written in C# with Unity as the game engine. 
 
 -----------------------------------
 <br><br>
-# Instruktioner
-För att starta servern i server-läge:
+# Instructions
+To start the server in server-mode:
 
 ```go run server.go --mode server```
 
-För att starta servern i client-läge:
-
+To start the server in client-mode: 
+(This mode is used to simulate a player client)
 ```go run client.go --mode client```
 
-Unity väntar in tills två klienter är anslutna innan spelet startar. Så för att Unity-klienten ska gå igång ordentligt så krävs det att servern är igång och att en annan klient ansluter inom rimlig tid.
-
+The game client waits till two clients are connected before the game starts. For the Unity-client to start properly it needs to have the server up and running beforehand and that another client is connecting within a reasonable time.
 
 -----------------------------------
 <br><br>
-#### Mapstruktur: 
-
-# Main
-Vi utgår från det här repot och branchar för varje ny funktionalitet vi skapar. 
+#### Folder Structure: 
 
 ## /2DMPGame/
-Innehåller spel-klienten skapad med Unity. 
+Contains the game client, created with C# and Unity.
 
 ## /Server/
-Innehåller koden för servern
+Contains the code of the server.
 
