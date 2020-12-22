@@ -5,6 +5,8 @@ This project is a two player game that can be played online.
 The server is written in Go and the game-client is written in C# with Unity as the game engine. 
 
 -----------------------------------
+![Screenshot](Misc/Screenshot.jpg "Screenshot")
+
 <br><br>
 # Instructions
 To start the server in server-mode:
