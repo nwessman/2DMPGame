@@ -1,5 +1,5 @@
 # 2D Multiplayer game
-### A fighting game for two peaple
+### A fighting game for two people
 
 This project is a two player game that can be played online. 
 The server is written in Go and the game-client is written in C# with Unity as the game engine. 
